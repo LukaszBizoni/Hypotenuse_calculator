@@ -17,5 +17,5 @@ int main(){
     hipotenusa = sqrt(hipotenusa);
 
     printf("a sua hipotenusa eh de:\n %f",hipotenusa);
-
+    system("pause");
     return 0;
